@@ -12,10 +12,10 @@
     "test": "mocha"
   },
   "dependencies": {
-    "int": "0.1.1"
+    "int": "0.2.0"
   },
   "devDependencies": {
-    "mocha": "1.9.x"
+    "mocha": "~3.1.2"
   },
   "main": "index",
   "optionalDependencies": {},
